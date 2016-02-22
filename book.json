@@ -1,0 +1,13 @@
+{
+    "gitbook": "2.x.x",
+    "plugins": ["-sharing","-search"],
+    "links": {
+        "sidebar": {
+            "联系我们": "http://fenxiangbei.com/"
+        }
+    },
+    "pluginsConfig": {},
+     "pdf": {
+        "headerTemplate": " "
+    }
+}
